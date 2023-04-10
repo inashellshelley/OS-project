@@ -21,9 +21,7 @@ Output:-
 
  The number of resources: 5
 
- The resources available currently (R1, R2 ...): 4
-5
-R3
+ The resources available currently (R1, R2 ...): R3
 
 
  Resourcees allocated to process 1 (R1, R2 ...):  
