@@ -17,7 +17,7 @@ int numProcessran = 0;
 pthread_mutex_t lockResources;
 pthread_cond_t condition;
 
-// get safe sequence is there is one else return false
+// get safe sequence if there is one else return false
 bool getSafeSequence();
 // process function
 void* processCode(void* );
